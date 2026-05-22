@@ -11,3 +11,4 @@ tkinterdnd2
 tkcalendar
 pypdf
 pikepdf
+rcedit
