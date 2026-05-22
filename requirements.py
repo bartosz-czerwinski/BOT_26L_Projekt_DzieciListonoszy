@@ -1,0 +1,13 @@
+pillow
+piexif
+pypdf
+python-docx
+pefile
+lief
+docx
+colorama
+tabulate
+tkinterdnd2
+tkcalendar
+pypdf
+pikepdf
